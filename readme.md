@@ -1,0 +1,3 @@
+# Zip
+
+- https://www.linkedin.com/pulse/zip-logic-game-tsp-via-constraint-programming-alireza-soroudi-phd-vquie/
